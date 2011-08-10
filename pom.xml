@@ -15,6 +15,12 @@
   <description>
 	Provide the missing job description column.
   </description>
+  
+  <scm>
+  	<connection>scm:git:git://github.com/noirbizarre/description-column.git</connection>
+  	<developerConnection>scm:git:git@github.com:noirbizarre/description-column.git</developerConnection>
+  	<url>https://github.com/noirbizarre/description-column</url>
+  </scm>
 
   <!-- get every artifact through maven.glassfish.org, which proxies all the artifacts that we need -->
   <repositories>
