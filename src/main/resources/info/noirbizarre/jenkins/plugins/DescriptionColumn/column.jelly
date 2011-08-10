@@ -1,0 +1,4 @@
+<j:jelly xmlns:j="jelly:core">
+  <j:set var="description" value="${job.description}"/>
+  <td>${description}</td>
+</j:jelly>
