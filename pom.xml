@@ -50,6 +50,14 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
+	
+	<developers>
+		<developer>
+			<id>noirbizarre</id>
+			<name>Axel Haustant</name>
+			<timezone>Europe/Paris</timezone>
+		</developer>
+	</developers>
 
 	<scm>
 		<connection>scm:git:git://github.com/noirbizarre/description-column.git</connection>
