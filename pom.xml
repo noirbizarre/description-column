@@ -41,6 +41,8 @@
 
 	<name>Description Column Plugin</name>
 	<description>Provide the missing job description column.</description>
+	
+	<url>http://wiki.jenkins-ci.org/display/JENKINS/Description+Column+Plugin</url>
 
 
 	<licenses>
@@ -56,6 +58,7 @@
 			<id>noirbizarre</id>
 			<name>Axel Haustant</name>
 			<timezone>Europe/Paris</timezone>
+			<email>noirbizarre+jenkins@gmail.com</email>
 		</developer>
 	</developers>
 
